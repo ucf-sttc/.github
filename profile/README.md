@@ -1,8 +1,10 @@
+# UCF-STTC
+
 We are Soldier Training and Testing Center at University of Central Florida (UCF-STTC).
 
 Located in Orlando, Florida.
 
-# Our open source projects: 
+## Our open source projects: 
 
 
 * ARORA Sim: https://github.com/ucf-sttc/ARORA
