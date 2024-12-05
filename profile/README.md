@@ -1,6 +1,6 @@
 # UCF-STTC
 
-We are the Institute for Simulation and Training that supports Soldier Training and Testing Center at University of Central Florida (UCF-STTC).
+We are the R&D team at the Soldier Training and Testing Center at the University of Central Florida (UCF-STTC).
 
 Located in Orlando, Florida.
 
